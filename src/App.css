@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  gap: 50px;
+}
+
+ul{
+  list-style: none;
+  text-decoration: none;
+}
+
+a{
+  text-decoration: none;
+}
