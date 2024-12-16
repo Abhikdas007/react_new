@@ -37,8 +37,6 @@ function Header() {
               <div className="navbar-nav ms-auto">
                 <NavLink className="nav-link scroll" to="/">Home</NavLink>
                 <NavLink className="nav-link scroll" to="/about">About</NavLink>
-                <NavLink className="nav-link scroll" to="/team">Team</NavLink>
-                <NavLink className="nav-link scroll" to="/portfolio">Work</NavLink>
                 <NavLink className="nav-link scroll" to="/price">Pricing</NavLink>
                 <NavLink className="nav-link scroll" to="/contact">Contact</NavLink>
               </div>
@@ -66,12 +64,7 @@ function Header() {
                 <li className="nav-item">
                   <NavLink className="nav-link scroll" to="/about">About</NavLink>
                 </li>
-                <li className="nav-item">
-                  <NavLink className="nav-link scroll" to="/team">Team</NavLink>
-                </li>
-                <li className="nav-item">
-                  <NavLink className="nav-link scroll" to="/portfolio">Work</NavLink>
-                </li>
+              
                 <li className="nav-item">
                   <NavLink className="nav-link scroll" to="/price">Pricing</NavLink>
                 </li>
